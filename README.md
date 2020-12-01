@@ -29,6 +29,5 @@
 
 ---
 
-<img align="left" alt="elizhyu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elizhyu&show_icons=true" />  
-
 <img align="left" alt="elizhyu's Github Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizhyu&langs_count=8&layout=compact" />
+<img align="left" alt="elizhyu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=elizhyu&show_icons=true" />  
