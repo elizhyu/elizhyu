@@ -1,6 +1,6 @@
 ### Hi there, this is ELI 👋
 
-[![Website](https://img.shields.io/website?label=ELIZHYU.COM&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com&up_message=GO&up_color=blue)](http://www.elizhyu.com/)
+[![Website](https://img.shields.io/website?label=ELIZHYU.COM&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com&up_message=GO&up_color=blue)](https://www.elizhyu.com/)
 
 ## IN CONSTRUCTION
 
@@ -16,11 +16,9 @@
 
 ### Connect with me:
 
-<img align="left" alt="elizhyu.com" width="22px" src="https://github.com/elizhyu/elizhyu/raw/main/globe.svg" />
+<a href="https://www.elizhyu.com/"><img align="left" alt="Personal Website" width="22px" src="https://github.com/elizhyu/elizhyu/raw/main/globe.svg" /></a>
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/elizhyu/ =22x22)
-
-<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/elizhyu/"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/elizhyu/elizhyu/raw/main/linkedin.svg" />
 
 <br />
 
