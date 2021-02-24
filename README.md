@@ -4,16 +4,17 @@
 
 <a href="https://www.linkedin.com/in/elizhyu/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/elizhyu/elizhyu/raw/main/linkedin.svg" /></a>
 
-## IN CONSTRUCTION
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## I'm a graduate student, geek, and cat lover!!
+
+- 🔭 I’m about to graduate from Georgia Tech as a Master student.
+- 🌱 I’m currently learning [Cadence](https://www.cadence.com/en_US/home/tools.html).
+- 👯 I’m looking to collaborate on any open-source project.
+- 🤔 I’m looking for my first full-time job right now.
+- 💬 Ask me about anything if I can answer or am capable of.
+- 📫 How to reach me: send inmail through Linkedin or send email to elizhyu@gmail.com
+- ⚡ Fun fact: I always want a cat but circumstances never allow.
 -->
 
 ---
