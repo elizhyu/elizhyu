@@ -1,6 +1,8 @@
 ### Hi there, this is ELI 👋
 
-[![Website](https://img.shields.io/website?label=ELIZHYU.COM&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com&up_message=GO&up_color=blue)](https://www.elizhyu.com/)
+<a href="https://www.elizhyu.com/" target="_blank"><img align="left" alt="Personal Website" width="22px" src="https://github.com/elizhyu/elizhyu/raw/main/globe.svg" /></a>
+
+<a href="https://www.linkedin.com/in/elizhyu/" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/elizhyu/elizhyu/raw/main/linkedin.svg" /></a>
 
 ## IN CONSTRUCTION
 
@@ -13,17 +15,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Connect with me:
-
-<a href="https://www.elizhyu.com/"><img align="left" alt="Personal Website" width="22px" src="https://github.com/elizhyu/elizhyu/raw/main/globe.svg" /></a>
-
-<a href="https://www.linkedin.com/in/elizhyu/"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/elizhyu/elizhyu/raw/main/linkedin.svg" />
-
-<br />
-
-<br />
-<br />
 
 ---
 
