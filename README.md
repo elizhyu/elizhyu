@@ -8,10 +8,10 @@
 
 ## I'm a graduate student, geek, and cat lover!!
 
-- 🔭 I’m about to graduate from Georgia Tech as a Master student.
-- 🌱 I’m currently learning [Cadence](https://www.cadence.com/en_US/home/tools.html).
-- 👯 I’m looking to collaborate on any open-source project.
-- 🤔 I’m looking for my first full-time job right now.
+- 🔭 I’m a Firmware Engineer at Texas Instruments.
+- 🌱 I’m currently learning advanced PCB design.
+- 👯 I’m looking to collaborate on any interested open-source project.
+- 🤔 I’m looking for some personal improvement in my first full-time job right now.
 - 💬 Ask me about anything if I can answer or am capable of.
 - 📫 How to reach me: send inmail through Linkedin or send email to elizhyu@gmail.com
 - ⚡ Fun fact: I always want a cat but circumstances never allow.
