@@ -6,7 +6,7 @@
 
 <br />
 
-## I'm a graduate student, geek, and cat lover!!
+## I'm a programmer, engineer, and cat lover!!
 
 - 🔭 I’m a Firmware Engineer at Texas Instruments.
 - 🌱 I’m currently learning advanced PCB design.
