@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on any interested open-source project.
 - 🤔 I’m looking for some personal improvement in my first full-time job right now.
 - 💬 Ask me about anything if I can answer or am capable of.
-- 📫 How to reach me: send inmail through Linkedin or send email to elizhyu@gmail.com
+- 📫 How to reach me: send inmail through Linkedin.
 - ⚡ Fun fact: I always want a cat but circumstances never allow.
 -->
 
