@@ -15,7 +15,6 @@
 - 💬 Ask me about anything if I can answer or am capable of.
 - 📫 How to reach me: send inmail through Linkedin.
 - ⚡ Fun fact: I always want a cat but circumstances never allow.
--->
 
 ## Skills
 
