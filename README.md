@@ -11,10 +11,10 @@
 - 🔭 I’m a Firmware Engineer at Texas Instruments.
 - 🌱 I’m currently learning kubernetes.
 - 👯 I’m looking to collaborate on any interested open-source project.
-- 🤔 I’m looking for some personal improvement in my first full-time job right now.
+- 🤔 I’m looking for personal improvement in various areas.
 - 💬 Ask me about anything if I can answer or am capable of.
 - 📫 How to reach me: send inmail through Linkedin.
-- ⚡ Fun fact: I always want a cat but circumstances never allow.
+- ⚡ Fun fact: I live with 3 cats and my lovely wife ^w^.
 
 ## Skills
 
